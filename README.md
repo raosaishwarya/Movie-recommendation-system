@@ -12,6 +12,7 @@ Streamlit 🚀
 scikit-learn 📊
 Pandas 🐼
 NumPy 🔢
+
 📝 Description: The movie recommendation system utilizes the concept of cosine similarity and word vectorization. By employing word embeddings, such as Word2Vec or GloVe, it transforms movie overviews into dense vectors and calculates their similarity using cosine similarity. This approach helps identify similar movies based on their textual descriptions. 📚
 
 📊 Features:
