@@ -1,0 +1,4 @@
+Requests==2.28.2
+streamlit==1.21.0
+fsspec
+certifi
